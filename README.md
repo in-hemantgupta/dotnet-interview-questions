@@ -20,6 +20,8 @@
 - [Memory & Performance](#-memory--performance)
 - [SQL & Database](#-sql--database)
 - [System Design](#-system-design)
+- [Agentic AI for Full Stack Developers](./agentic-ai-questions.md)
+- [Azure for .NET Developers](./agentic-ai-questions.md#️-azure-for-net-developers) *(coming next week)*
 
 ---
 
@@ -769,6 +771,13 @@ Scaling:
 | Use case | Public APIs | Microservices |
 
 ---
+
+## 🤖 Agentic AI & Azure
+
+| Section | Status |
+|---|---|
+| [Agentic AI for Full Stack Developers](./agentic-ai-questions.md) | ✅ Available (Q35–Q44) |
+| Azure for .NET Developers | 🔜 Coming next week |
 
 ## 🤝 Contributing
 
